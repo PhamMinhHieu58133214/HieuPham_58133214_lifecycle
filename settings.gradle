@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='HieuPham_58133214_lifecycle'
