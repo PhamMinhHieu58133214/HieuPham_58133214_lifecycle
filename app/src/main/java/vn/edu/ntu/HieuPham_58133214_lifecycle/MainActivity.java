@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
         SimpleDateFormat spdF = new SimpleDateFormat("HH:mm:ss");
         String date = spdF.format(new Date());
         txtTG.setText(date);
+
     }
 
     @Override
